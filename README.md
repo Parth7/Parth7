@@ -2,8 +2,7 @@
 
 I have strong programming, software engineering and quantitative skills, and effective communication skills. If this sounds like a skillset that fits any opportunities you have available, I'd love to hear from you!
 
-Looking for full-time roles starting in September 2021.
-
+Looking for full-time roles starting in September 2021.           
 +44-07503256026; parth.parakh.20@ucl.ac.uk 
 
 <!--
