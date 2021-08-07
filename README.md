@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Starting full time with Credit Suisse (IB). I'll be working as an investment banking associate within the Global eMacro Platform team, building the next suite of pricing, hedging, algo and distribution tools. The primary focus will be on development of the next generation pricing and market-making system for interest rate derivatives (swaps, ED futures, bonds).          
+Starting full time with Credit Suisse. I'll be working as an investment banking associate within the Global eMacro Platform team, building the next suite of pricing, hedging, algo and distribution tools. The primary focus will be on development of the next generation pricing and market-making system for interest rate derivatives (swaps, ED futures, bonds).          
 +44-07503256026; parth.parakh.20@ucl.ac.uk 
 
 <!--
