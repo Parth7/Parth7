@@ -1,5 +1,5 @@
 ### Hi there 👋
-Working as an Investment Banking Associate within the Global eMacro Platform team, building the next suite of pricing, hedging, algo and distribution tools. The primary focus will be on developing the next-generation pricing and market-making system for interest rate derivatives (swaps, ED futures, bonds).
+Working as an Investment Banking Associate within the Global eMacro Platform team, building the next suite of pricing, hedging, algo and distribution tools.
 +44-07503256026; parth.parakh.20@ucl.ac.uk
 
 <!--
