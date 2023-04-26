@@ -1,5 +1,5 @@
 ### Hi there 👋
-Working as an Investment Banking Associate within the Global eMacro Strats team, building the next suite of pricing and hedging models.
+Working as an eFX Strats - building the next suite of pricing and hedging models.
 
 <!--
 **Parth7/Parth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
