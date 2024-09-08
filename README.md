@@ -1,5 +1,5 @@
 ### Hi there 👋
-Working as an eFX Strats - building the next suite of pricing and hedging models.
+I am a quantitative trader - building the next suite of pricing and hedging models for the FX franchise at ABN AMRO
 
 <!--
 **Parth7/Parth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
